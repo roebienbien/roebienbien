@@ -1,7 +1,9 @@
 | Most Used Languages | Contributions |
 |--------------------|---------------|
-| ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roebienbien&layout=compact&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=roebienbien&theme=dark) |
+| ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roebienbien&layout=compact&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats2-ten.vercel.app?user=roebienbien&theme=dark)](https://git.io/streak-stats) |
 
+
+[![GitHub Streak](https://github-readme-streak-stats2-ten.vercel.app?user=roebienbien&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roebienbien&layout=compact&theme=tokyonight" />
